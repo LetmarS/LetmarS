@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 💻 **Estudiante de Ingenieria en Informática de la UNET**
+
 📚 **Aprendiendo un poco de todo**
 
 ---
 ### About Me
 🏍️ **Amante de las motos, el off-road y aventuras**
+
 📘 **Amante de los libros**
 
 ---
