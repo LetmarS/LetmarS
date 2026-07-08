@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**LetmarS/LetmarS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudiante de Ingenieria en Informática de la UNET**
+📚 **Aprendiendo un poco de todo**
 
-Here are some ideas to get you started:
+---
+### About Me
+🏍️ **Amante de las motos, el off-road y aventuras**
+📘 **Amante de los libros**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Technology Stack
+![GitHub Badge](https://img.shields.io/badge/GitHub-Basic-blue?logo=github)
+![Git Badge](https://img.shields.io/badge/Git-Basic-orange?logo=git)
+
+
